@@ -15,11 +15,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #67b0d1;
+  color: #B22222;
 }
 
 a:hover {
-  color: #8ec4dd;
+  color: #B22222;
   text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 998;
-  background: #67b0d1;
+  background: #B22222;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -60,7 +60,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #86c0da;
+  background: #B22222;
   color: #fff;
 }
 
@@ -578,7 +578,7 @@ section {
 }
 
 .about .content .about-btn:hover {
-  background: #7bbad7;
+  background: #B22222;
 }
 
 .about .icon-boxes .icon-box {
